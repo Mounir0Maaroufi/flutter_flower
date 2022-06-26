@@ -58,7 +58,7 @@ class _ProfilePageState extends State<ProfilePage> {
               Navigator.pop(context);
             },
             label: Text(
-              "logout",
+              "Logout",
               style: TextStyle(
                 color: Colors.white,
               ),
